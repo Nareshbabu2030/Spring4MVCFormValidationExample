@@ -33,7 +33,7 @@
     <artifactId>hibernate-validator</artifactId>
     <version>${hibernate.validator.version}</version>
    </dependency>
-   
+      
    <!-- Servlet+jsp+jstl dependencies -->
    <dependency>
     <groupId>javax.servlet</groupId>
